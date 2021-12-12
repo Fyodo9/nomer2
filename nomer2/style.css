@@ -1,0 +1,108 @@
+#logo{
+
+  float: left;
+  padding-left: 50%;
+  padding-top: 10px;
+    
+}
+
+#heade{
+    width:100%;
+    border: 1px dashed gray;
+    height: 120px;
+         
+        
+}
+
+#navv{ 
+    display: inline;
+    width: 960px;
+    border: 1px dashed gray;
+   text-align: center; /* почему-то работает только когда включен border? */
+}
+
+#2navv{
+     display: inline;
+    width: 960px;
+    border: 1px dashed gray;
+   text-align: center; /* почему-то работает только когда включен border? */
+}
+
+.hr {
+    
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+   }
+   
+   .hr li {
+       
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
+   }
+   
+   .2hr{
+       margin: 0; /* Обнуляем значение отступов */
+    padding-left: 50%; /* Значение полей */
+   }
+   
+   .2hr li{
+       display: inline;
+       margin-right: 5px; /* Отступ слева */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
+   }
+
+#1block{
+    text-align: center;
+}
+
+#2blocks{
+    display: inline-block;
+    min-height: 30px;
+    background-color: #ddd;}
+    
+#footerr{
+    
+    width:100%;
+    border: 1px dashed gray;
+    text-align: left;
+    padding-left: 1%;
+}
+
+.test{
+
+text-align:  center;
+}
+.center{
+display: inline-block}
+li{
+text-align: center;
+}
+
+
+table {
+    width: 960px;
+    background: maroon; /* Цвет фона таблицы */
+    color: white; /* Цвет текста */
+    text-align: center;
+    margin: auto;
+   }
+   td {
+    background: navy; /* Цвет фона ячеек */
+   text-align: center;
+   }
+   
+   
+   #trrn{
+       width: 960px;
+   }
+   
+   
+   #tercc{
+       display: inline;
+       border: 1px dashed gray;
+        text-align: center;
+      
+   }
